@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=438CB5&height=300&section=header&text=Yoon%20Ki%20Kim&fontSize=70&fontColor=FFFFFF">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=438CB5&height=300&section=header&text=Yoon%20Ki%20Kim&fontSize=70&fontColor=FFFFFF">
 </p>
 
 <div align="center">
