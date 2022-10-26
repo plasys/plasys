@@ -4,7 +4,6 @@
 
 <div align="center">
     <h1 align="center">🌱 About ME 🌱</h1>
-    <h3>👋 Hi! There!</h3>
     <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3></br>
     <h1>📬 How to reach me 📬</h1>
     <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/MyBatis-26689A?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> 
+<!--     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">  -->
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"></br>
 </p></br>
     <h1> ⚒ Team Collaboration Tool ⚒ </h1>
@@ -39,7 +38,7 @@
     <p>
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> -->
         <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> 
         <img src="https://img.shields.io/badge/MySQL Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </p></br>
