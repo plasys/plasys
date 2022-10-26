@@ -6,7 +6,7 @@
     <h1 align="center">🌱 About ME 🌱</h1>
     <h3>👋 Hi! There!</h3>
     <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3></br>
-    <h1>📬 How to reach me? 📬</h1>
+    <h1>📬 How to reach me 📬</h1>
     <h3>My Email &nbsp&nbsp👉 &nbsp&nbsp
     <a href="mailto:"kezy1992@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
