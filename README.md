@@ -4,7 +4,8 @@
 
 <div align="center">
     <h1 align="center">🌱 About ME 🌱</h1>
-    <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3></br>
+    <h3> 안녕하세요 ^-^ </h3>
+    <h3>👨‍💻 <b>Back-End 개발자 김윤기 입니다!</b> 👨‍💻</h3></br>
     <h1>📬 How to reach me 📬</h1>
     <h3>Email &nbsp&nbsp👉 &nbsp&nbsp
     <a href="mailto:"kezy1992@gmail.com">
