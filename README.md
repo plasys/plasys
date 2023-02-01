@@ -3,10 +3,10 @@
 </p>
 
 <div align="center">
-    <h1 align="center">🌱 About ME 🌱</h1>
-    <h3> 안녕하세요 ^-^ </h3>
-    <h3>👨‍💻 <b>Back-End 개발자 김윤기 입니다!</b> 👨‍💻</h3></br>
-    <h1>📬 How to reach me 📬</h1>
+    <h1 align="center"> About Me</h1>
+    <h3> 안녕하세요 ^o^ </h3>
+    <h3>👨‍💻 <b>🌱매일 성장하는 개발자 김윤기 입니다!</b> 👨‍💻</h3></br>
+    <h1>📬 저에게 연락주세요! 📬</h1>
     <h3>Email &nbsp&nbsp👉 &nbsp&nbsp
     <a href="mailto:"kezy1992@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
