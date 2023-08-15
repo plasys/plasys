@@ -4,14 +4,11 @@
 
 <div align="center">
     <h1 align="center"> About Me</h1>
-    <h3> 안녕하세요 ^o^ </h3>
-    <h3><b>매일 성장하는 개발자 김윤기 입니다! 🌱</b></h3></br>
+    <h3> 안녕하세요! </h3>
+    <h3><b>어제보다 더 나은 개발자 김윤기 입니다! 🌱</b></h3></br>
     <h3>제 연락처예요 📬</h3>
-    <h3>Email &nbsp&nbsp👉 &nbsp&nbsp
-    <a href="mailto:"kezy1992@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white">
-    </a></h3>
-    <h3>Blog &nbsp&nbsp👉 &nbsp&nbsp
+    <h3>Email : kezy1992@gmail.com </h3>
+    <h3>Blog : &nbsp&nbsp
     <a href="https://reprisal.tistory.com/">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
     </a></h3></br>
