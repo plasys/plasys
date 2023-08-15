@@ -8,7 +8,7 @@
     <h3><b>어제보다 더 나은 개발자 김윤기 입니다! 🌱</b></h3></br>
     <h3>제 연락처예요 📬</h3>
     <h3>Email : kezy1992@gmail.com </h3>
-    <h3>Blog : Click here -> &nbsp&nbsp
+    <h3>Blog : &nbsp&nbsp
     <a href="https://reprisal.tistory.com/">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
     </a></h3></br>
