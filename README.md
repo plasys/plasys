@@ -26,7 +26,7 @@
 <!--     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">  -->
 <!--     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"></br> -->
 </p></br>
-    <h1> ⚒ Team Collaboration Tool ⚒ </h1>
+    <h1> ⚒ Team Collaboration Tools ⚒ </h1>
     <p>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
